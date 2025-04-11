@@ -61,7 +61,7 @@ This model was selected based on a combination of classification performance and
 
 - **Pipeline:** `StandardScaler + QDA`  
 - **Hyperparameter tuned:** `reg_param` via `GridSearchCV`  
-- **Test accuracy:** around **XX%** *(replace with actual result if desired)*
+- **Test accuracy:** around **87%**
 
 ### 📊 Metrics Used
 - Accuracy  

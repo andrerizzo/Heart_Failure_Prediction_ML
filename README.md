@@ -65,7 +65,7 @@ Esse modelo foi escolhido com base em uma combinação de desempenho nas métric
 
 - **Pipeline utilizado:** `StandardScaler + QDA`
 - **Hiperparâmetro ajustado:** `reg_param` via `GridSearchCV`
-- **Acurácia na base de teste:** cerca de **XX%** *(substituir pelo valor real se desejar)*
+- **Acurácia na base de teste:** cerca de **87%**
 
 ### 📊 Métricas utilizadas
 - Accuracy
